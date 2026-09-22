@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Spark / generated output
+data/output/
+*.parquet
+
+# Local audit database and logs
+data/logs/
+*.db
+*.sqlite
+*.sqlite3
+
+# AI generated output
+data/ai/
+
+# Environment / secrets
+.env
+.env.*
+*.pem
+*.key
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+# Test environment
+testenv/

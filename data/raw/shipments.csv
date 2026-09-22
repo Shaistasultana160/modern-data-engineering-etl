@@ -1,0 +1,31 @@
+ShipmentID,Customer,City,Weight,Status,ShipmentDate,DeliveryDate,ShippingCost
+S001,ABC Corp,Hyderabad,15,Delivered,2026-07-01,2026-07-03,450
+S002,XYZ Ltd,Chennai,18,Delivered,2026-07-01,2026-07-04,600
+S003,Metro Stores,Bangalore,12,In Transit,2026-07-03,2026-07-07,900
+S004,Tech World,Hyderabad,16,Delivered,2026-07-03,2026-07-05,500
+S005,Fresh Mart,Mumbai,15,Pending,2026-07-03,2026-07-08,1100
+S006,Global Foods,Delhi,14,Delivered,2026-07-05,2026-07-07,400
+S007,Smart Retail,Pune,19,Delivered,2026-07-05,2026-07-08,650
+S008,Prime Traders,Hyderabad,18,In Transit,2026-07-05,2026-07-10,1250
+S009,City Mart,Chennai,17,Delivered,2026-07-05,2026-07-07,550
+S010,Alpha Industries,Bangalore,11,Pending,2026-07-07,2026-07-12,850
+S011,Beta Stores,Hyderabad,51,Delivered,2026-07-07,2026-07-09,450
+S012,Green Foods,Mumbai,14,In Transit,2026-07-07,2026-07-11,1000
+S013,Urban Market,Delhi,16,Delivered,2026-07-09,2026-07-11,500
+S014,NextGen Tech,Pune,20,Pending,2026-07-09,2026-07-14,1400
+S015,Daily Needs,Hyderabad,18,Delivered,2026-07-09,2026-07-12,600
+S016,Super Mart,Chennai,13,Delivered,2026-07-09,2026-07-13,950
+S017,Quick Supply,Bangalore,14,In Transit,2026-07-09,2026-07-12,400
+S018,City Foods,Mumbai,16,Pending,2026-07-09,2026-07-15,1150
+S019,Digital Hub,Delhi,10,Delivered,2026-07-09,2026-07-12,750
+S020,Prime Foods,Hyderabad,22,In Transit,2026-07-11,2026-07-16,1500
+S021,Modern Stores,Pune,17,Delivered,2026-07-11,2026-07-14,550
+S022,Star Traders,Chennai,12,Pending,2026-07-11,2026-07-16,900
+S023,Fresh Basket,Bangalore,15,Delivered,2026-07-11,2026-07-13,450
+S024,Tech Solutions,Hyderabad,17,In Transit,2026-07-11,2026-07-15,1200
+S025,Global Mart,Mumbai,19,Delivered,2026-07-11,2026-07-14,700
+S026,Daily Fresh,Delhi,14,Pending,2026-07-11,2026-07-17,1000
+S027,Smart Foods,Pune,61,Delivered,2026-07-11,2026-07-14,500
+S028,Metro Supply,Chennai,19,In Transit,2026-07-11,2026-07-16,1350
+S029,Urban Traders,Bangalore,8,Delivered,2026-07-11,2026-07-14,600
+S030,Alpha Retail,Hyderabad,25,Pending,2026-07-11,2026-07-18,1700
